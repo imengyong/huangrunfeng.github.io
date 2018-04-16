@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "这是徐代龙进行的第二篇文章"
-categories: SnakeSon
-tags:  hexo JavaScript
-author: SnakeSon
+title:  "第一篇博客 -- 搭建GitHub博客"
+categories: GitHub
+tags:  yml GitHub HTML
+author: HuangRunfeng
 ---
 
 * content
@@ -11,8 +11,7 @@ author: SnakeSon
 
 ## 目的：
 
-写这篇文章的目的主要是为了测试在本地进行md文件的编写是否能使用hexo进行html生成，然后上传到github上，通过访问https://day21.top 这个网站查看能否看到最新的文章
-
+记录完整搭建GitHub自定义博客，以及本次工程代码目录说明
 
 
 
