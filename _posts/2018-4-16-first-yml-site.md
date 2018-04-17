@@ -13,6 +13,8 @@ author: HuangRunfeng
 
 记录完整搭建GitHub自定义博客，以及本次工程代码目录说明
 
+![](https://img.alicdn.com/tfs/TB18QnlOpXXXXcVXpXXXXXXXXXX-388-256.png)
+
 
 
 
@@ -29,7 +31,8 @@ author: HuangRunfeng
   git push -u origin master
   ```
 
-* 配置仓库，在setting->GitHub Pages，
+* 配置仓库，在setting->GitHub Pages，把master设为Source
+
 
 * github上搜gaohaoyang.github.io,把下下来，解压，把需要的文件覆盖倒自己git目录，并push
   ```sh
@@ -45,7 +48,7 @@ author: HuangRunfeng
 
 ## 参考说明：
 
-* 浩阳神：https://gaohaoyang.github.io/
+* 浩阳神：[https://gaohaoyang.github.io/](https://gaohaoyang.github.io/)
 
-* https://blog.csdn.net/xudailong_blog/article/details/78762262
+* [https://blog.csdn.net/xudailong_blog/article/details/78762262](https://blog.csdn.net/xudailong_blog/article/details/78762262)
 
