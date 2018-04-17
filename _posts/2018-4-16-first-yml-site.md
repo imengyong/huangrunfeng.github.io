@@ -15,10 +15,11 @@ author: HuangRunfeng
 
 
 
+
 ## 操作记录
 
-* 注册github，并登录，创建一个{username}.github.io的仓库
-  ‘’‘ sh
+* 注册github，并登录，创建一个`{username}.github.io`的仓库
+  ```sh
   cd github/
   echo "# xxx.github.io" >> README.md
   git init
@@ -26,20 +27,21 @@ author: HuangRunfeng
   git commit -m "first commit"
   git remote add origin git@github.com:xxx/xxx.github.io.git
   git push -u origin master
-  ’‘’
+  ```
 
 * 配置仓库，在setting->GitHub Pages，
 
 * github上搜gaohaoyang.github.io,把下下来，解压，把需要的文件覆盖倒自己git目录，并push
-  ‘’‘
+  ```sh
   git add .
   git commit -m "update blog style"
   git push
-  ’‘’
+  ```
 
 * 输入网址访问 https://xxx.github.io/, 查看效果
 
 ## 目录结构说明
+
 
 ## 参考说明：
 
