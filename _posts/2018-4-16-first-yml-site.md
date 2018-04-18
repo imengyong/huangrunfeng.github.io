@@ -45,19 +45,31 @@ author: HuangRunfeng
 * 主要目录结构如下：
 
   `---xxx(仓库名)
+
     |-- _includes
+
     |-- _layout
+
     |-- _posts
+
     |-- _sass
+
     |-- css
+
     |-- js
+
     |-- node_modules
+
     |-- pages 
+
     |-- index.html `
 
 * _includes中是些html文件，构成整体页面布局，包括header、commet、tag、footer等页面导航栏侧边栏等内容; _layout下的default.html等用静态包含include"拼接"起来整体页面布局
+
 * pages 里面是些二级页面，如about、demo等
+
 * css/js/_sass 是页面前端样式文件
+
 * _posts 是博客所在目录，里面存放以时间日期命名的md文件，上面html会解析这些md文件，处理成页面显示的样式和内容
 
 
