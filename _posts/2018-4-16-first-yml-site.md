@@ -44,25 +44,17 @@ author: HuangRunfeng
 ## 主要目录说明
 * 主要目录结构如下：
 
-  `---xxx(仓库名)
-
+  ```---xxx(仓库名)
     |-- _includes
-
     |-- _layout
-
     |-- _posts
-
     |-- _sass
-
     |-- css
-
     |-- js
-
     |-- node_modules
-
     |-- pages 
-
-    |-- index.html `
+    |-- index.html 
+    ```
 
 * _includes中是些html文件，构成整体页面布局，包括header、commet、tag、footer等页面导航栏侧边栏等内容; _layout下的default.html等用静态包含include"拼接"起来整体页面布局
 
