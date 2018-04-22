@@ -2,7 +2,7 @@
 layout: post
 title:  "Hadoop学习之项目练习.2 — SpringMVC整合"
 categories: hadoop
-tags:  spring hadoop hibernate
+tags:  springmvc
 author: HuangRunfeng
 ---
 
@@ -23,7 +23,7 @@ RootConfig配置注解扫描路径，作用同bean.xml中的`context:component-s
   <!-- 组间扫描 -->
   <context:component-scan base-package="cn.runfeng.dao.impl,cn.runfeng.service.impl"></context:component-scan>
 
-’‘’
+```
   package cn.runfeng.config;
   import org.springframework.context.annotation.ComponentScan;
   import org.springframework.stereotype.Component;
