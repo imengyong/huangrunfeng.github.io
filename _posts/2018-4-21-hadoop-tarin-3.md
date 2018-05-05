@@ -137,11 +137,11 @@ Hadoop学习之项目练习— WEB动静资源集群隔离
   ```
 
 ## 访问验证
-    浏览器中输入：http://localhost:8080/HadoopTrain/pages/iphone.jsp 查看现象，如图可见动静态分离已经实现
+   浏览器中输入：http://localhost:8080/HadoopTrain/pages/iphone.jsp 查看现象，如图可见动静态分离已经实现
 
-    ![](./imgs/iphone.jsp.png "效果展示")
+    ![](https://huangrunfeng.github.io/imgs/iphone.jsp.png)
 
-    ![](./imgs/iphone.htm.png "效果展示")
+    ![](https://huangrunfeng.github.io/imgs/iphone.jsp.png)
 
 
 
