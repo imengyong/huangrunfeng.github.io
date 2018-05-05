@@ -138,9 +138,10 @@ Hadoop学习之项目练习— WEB动静资源集群隔离
 
 ## 访问验证
     浏览器中输入：http://localhost:8080/HadoopTrain/pages/iphone.jsp 查看现象，如图可见动静态分离已经实现
+
+    ![Alt jsp页面](./imgs/iphone.jsp.png "效果展示")
     
-    ![Alt jsp页面](iphone.jsp.png "效果展示")
-    ![Alt html页面](iphone.htm.png "效果展示")
+    ![Alt html页面](./imgs/iphone.htm.png "效果展示")
 
 
 
