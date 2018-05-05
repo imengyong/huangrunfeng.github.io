@@ -11,12 +11,12 @@ author: HuangRunfeng
 
 ## 目的
 
-hadoop学习之SpringMVC整合，记录springMVC整合过程
+Hadoop学习之SpringMVC整合，记录springMVC整合过程
 
 
 
 
-## 整改工程，使用Spring 全注解方式
+## 整改工程，使用Spring全注解方式
 创建RootConfig和MyBeans两个类，替换bean.xml配置方式
 
 RootConfig配置注解扫描路径，作用同bean.xml中的`context:component-scan`字段

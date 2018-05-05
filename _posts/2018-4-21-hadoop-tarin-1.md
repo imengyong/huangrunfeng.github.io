@@ -11,7 +11,7 @@ author: HuangRunfeng
 
 ## 目的
 
-hadoop学习之Spring/hibernate整合，记录spring与hibernate整合过程
+Hadoop学习之Spring/hibernate整合，记录spring与hibernate整合过程
 
 
 
@@ -271,7 +271,7 @@ hadoop学习之Spring/hibernate整合，记录spring与hibernate整合过程
   }
 ```
 
-## 模型映射：
+## 模型映射
 在model统计下，添加模型映射文件：User.hbm.xml
 
 ```
